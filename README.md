@@ -6,7 +6,8 @@ I'm Martín Villanueva, a software engineer from Chile. Currently, I work as dat
 - 🌱  I’m currently learning attentive mechanisms for tabular data and machine learning lifecyle frameworks.
 - 🦾  I’m open to collaborate on Kaggle competitions. 
 - 📚  My research interests include: NLP, Transformers, Attentive Mechanisms and Interpretability.
-- 📫  How to reach me: 
+
+### Reach me on:
 
 <a href="https://t.me/mavillan">
   <img align="left" alt="mavillan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
