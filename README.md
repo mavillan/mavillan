@@ -4,7 +4,7 @@ I'm Martín Villanueva, a software engineer from Chile. Currently, I work as dat
 
 - 🚀  I’m currently working on the development of automated sales forecasting systems.
 - 🌱  I’m currently learning attentive mechanisms for tabular data and machine learning lifecyle frameworks.
-- 🦾  I’m open to collaborate on Kaggle competitions. 
+- 🦾  I’m open to collaborate on ML open source projects. 
 - 📚  My research interests include: NLP, Transformers, Attentive Mechanisms and Interpretability.
 
 ### Reach me on:
