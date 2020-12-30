@@ -1,11 +1,10 @@
 # Hi there 
 
-I'm Martín Villanueva, a software engineer from Chile. Currently, I work as data scientist for Walmart. Beside's programming, I enjoy biking and playing guitar.
+I'm Martín Villanueva, a software engineer from Chile. Currently, I work as data scientist for [Spike](https://www.spikelab.xyz/). Beside's programming, I enjoy biking and competing on Kaggle :=).
 
-- 🚀  Currently working on the development of automated sales forecasting systems.
-- 🌱  Currently learning attentive mechanisms for tabular data and machine learning lifecyle frameworks.
+- 🚀  Currently learning attentive mechanisms for tabular data and machine learning lifecyle frameworks.
 - 🦾  Open to collaborate on open source ML projects. 
-- 📚  My research interests include: model generalization, attention mechanisms and interpretability.
+- 📚  My research interests include: advanced forecasting modeling, model generalization, attention mechanisms and interpretability.
 
 ### Reach me on:
 
