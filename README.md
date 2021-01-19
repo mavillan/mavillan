@@ -1,6 +1,6 @@
 # Hi there 
 
-I'm Martín Villanueva, a software engineer from Chile. Currently, I work as data scientist for [Spike](https://www.spikelab.xyz/). Beside's programming, I enjoy biking and compete on Kaggle :=).
+I'm Martín Villanueva, a software engineer from Chile. Currently, I work as data scientist at [Spike](https://www.spikelab.xyz/). Besides programming, I enjoy biking and compete on Kaggle :=).
 
 - 🚀  Currently learning attentive mechanisms for tabular data and machine learning lifecyle frameworks.
 - 🦾  Open to collaborate on open source ML projects. 
