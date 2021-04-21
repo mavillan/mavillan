@@ -4,7 +4,7 @@ I'm Martín Villanueva, a software engineer from Chile. Currently, I work as dat
 
 - 🚀  Currently learning attentive mechanisms for tabular data and machine learning lifecyle frameworks.
 - 🦾  Open to collaborate on open source ML projects. 
-- 📚  My research interests include: advanced forecasting modeling, model generalization, attention mechanisms & reinforcement learning.
+- 📚  Research interests: advanced forecasting modeling, model generalization, attention mechanisms & reinforcement learning.
 
 ### Reach me on:
 
