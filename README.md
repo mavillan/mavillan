@@ -2,9 +2,9 @@
 
 I'm Martín Villanueva, a software engineer from Chile. Currently, I work as data scientist at [Spike](https://www.spikelab.xyz/). Besides programming, I enjoy biking and compete on Kaggle :=).
 
-- 🚀  Currently learning attentive mechanisms for tabular data and machine learning lifecyle frameworks.
+- 🚀  Currently learning deep learning generalization theory & ML for finance.
+- 📚  Research interests: advanced forecasting modeling, attention mechanisms & reinforcement learning.
 - 🦾  Open to collaborate on open source ML projects. 
-- 📚  Research interests: advanced forecasting modeling, model generalization, attention mechanisms & reinforcement learning.
 
 ### Reach me on:
 
