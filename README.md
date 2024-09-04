@@ -3,8 +3,8 @@
 I'm Martín Villanueva, a software engineer from Chile. I currently work as a Data Scientist at [Bain](https://www.bain.com/). In addition to programming, I enjoy biking and competing in ML competitions (yes, more programming—I know).
 
 - 🚀  Currently learning about deep learning generalization theory and ML applications in finance.
-- 📚  Research interests: tabular data modelling, advanced forecasting topics, transformers, and GNNs.
-- 🦾  Open to collaborating on open-source ML projects. 
+- 📚  Research interests: tabular data modelling, LTR models, advanced forecasting topics, transformers, and GNNs.
+- 🦾  Open to collaborating on open-source ML/AI projects. 
 
 ### Connect with me:
 
