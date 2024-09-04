@@ -1,20 +1,20 @@
-# Hi there 
+# Hi there!
 
-I'm Martín Villanueva, a software engineer from Chile. Currently, I work as data scientist at [Spike](https://www.spikelab.xyz/). Besides programming, I enjoy biking and compete on Kaggle :=).
+I'm Martín Villanueva, a software engineer from Chile. I currently work as a Data Scientist at [Bain](https://www.bain.com/). In addition to programming, I enjoy biking and competing in ML competitions (yes, more programming—I know).
 
-- 🚀  Currently learning deep learning generalization theory & ML for finance.
-- 📚  Research interests: advanced forecasting modeling, attention mechanisms & reinforcement learning.
-- 🦾  Open to collaborate on open source ML projects. 
+- 🚀  Currently learning about deep learning generalization theory and ML applications in finance.
+- 📚  Research interests: tabular data modelling, advanced forecasting topics, transformers, and GNNs.
+- 🦾  Open to collaborating on open-source ML projects. 
 
-### Reach me on:
+### Connect with me:
 
 <a href="https://www.linkedin.com/in/mavillan/">
-  <img align="left" alt="mavillan's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.kaggle.com/mavillan">
-  <img align="left" alt="mavillan's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />
+  <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />
 </a>
 <a href="https://stackoverflow.com/users/2736583/mavillan">
-  <img align="left" alt="mavillan's Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+  <img align="left" alt="Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
 <br />
